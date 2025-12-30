@@ -1,0 +1,107 @@
+{
+  "$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/translation_schema.json",
+    "DialogueDictionary": {
+      //OutsideRec
+      "CALAD: Melina, is everything ready?":"КАЛАД: Мелина, всё готово?",
+      "MELINA: Yes. Primm will arrive shortly for our first full test of this technology.":"МЕЛИНА: Да. Примм скоро прибудет для нашего первого полного испытания этой технологии.",
+      "CALAD: I hope it works. It’d be disheartening for it to not.":"КАЛАД: Надеюсь, она сработает. Было бы обидно, если нет.",
+      "MELINA: It’s more disheartening to hear you hoping, Calad, are you feeling well? It’s unlike you to hope!":"МЕЛИНА: Слышать от тебя надежду ещё обиднее, Калад. Ты в порядке? Для тебя это нехарактерно!",
+      "CALAD: This is something serious, Melina.":"КАЛАД: Это серьёзное дело, Мелина.",
+      "MELINA: My apologies. I was merely attempting to lighten our emotions.":"МЕЛИНА: Прости. Я просто пыталась разрядить обстановку.",
+      "CALAD: Fortunate that this outpost isn’t on the night side, then.":"КАЛАД: Что ж, повезло, что этот аванпост не на ночной стороне.",
+      "MELINA: A joke that doesn’t poke at me? You truly might be unwell, friend! Regardless, Primm should be arriving soon. Let’s ready everything.":"МЕЛИНА: Шутка, которая не подкалывает меня? Ты и вправду, наверное, нездоров, друг! В любом случае, Примм скоро должен быть. Давай всё подготовим.",
+
+      //FoyerRec
+      "PRIMM: Initial log: It works! Calad is truly a talented engineer; I’m most grateful of being his apprentice.":"ПРИММ: Первая запись: Работает! Калад действительно талантливый инженер; я бесконечно благодарен, что являюсь его учеником.",
+      "CALAD: It wasn’t just me, Primm. Melina developed the interface side of things, don’t let her talent go without credit.":"КАЛАД: Это не только я, Примм. Мелина разрабатывала интерфейсную часть, не стоит забывать о её таланте.",
+      "MELINA: Thank you, Calad. Were you not committed to someone, I would think you’re flirting with me.":"МЕЛИНА: Спасибо, Калад. Если бы ты не был в отношениях, я бы подумала, что ты со мной флиртуешь.",
+      "CALAD: If your brother heard you, Melina…":"КАЛАД: Если бы твой брат тебя услышал, Мелина…",
+      "MELINA: He’d thank me for making you two meet, yes. Now, to the matter at our prehensile appendage.":"МЕЛИНА: Он бы поблагодарил меня за то, что я вас познакомила, да. А теперь ближе к делу.",
+      "MELINA: The projection is functioning wonderfully: Our minds can interact with each other in a simulated physical environment, and we can move freely even while stepping beyond the projection pool.":"МЕЛИНА: Проекция функционирует превосходно: наши сознания могут взаимодействовать друг с другом в смоделированной физической среде, и мы можем свободно перемещаться, даже выходя за пределы бассейна проекции.",
+      "PRIMM: …Calad, Melina, where is the projection stone to return?":"ПРИММ: …Калад, Мелина, где проекционный камень для возврата?",
+      "MELINA: Has it disappeared? This is troubling…":"МЕЛИНА: Он исчез? Это тревожно…",
+      "CALAD: It is, but we shouldn’t panic: There should be a safeguard to return us, but we’ll need to find it.":"КАЛАД: Да, но не стоит паниковать: здесь должна быть аварийная система для возврата, но нам нужно её найти.",
+      "MELINA: If so, let’s start moving.":"МЕЛИНА: Если так, то давайте двигаться.",
+
+      //AnchorOneRec
+      "CALAD: This is a projection anchor. It helps stabilize the construction of this space.":"КАЛАД: Это проекционный якорь. Он помогает стабилизировать структуру этого пространства.",
+      "PRIMM: While I’d love to learn about its intricacies, I fail to see how this helps us exit this place.":"ПРИММ: Хотя мне бы и хотелось узнать о его сложном устройстве, я не понимаю, как это поможет нам отсюда выбраться.",
+      "CALAD: Yes, it’s not helpful by itself, but it works with the other two to stabilize the area between them. Another projection stone should <![CDATA[<Color=orange>]]>load<![CDATA[</Color>]]> there.":"КАЛАД: Да, сам по себе он бесполезен, но он работает в связке с двумя другими, чтобы стабилизировать область между ними. Там должен <![CDATA[<Color=orange>]]>загрузиться<![CDATA[</Color>]]> ещё один проекционный камень.",
+      "MELINA: <![CDATA[<Color=orange>]]>Loading<![CDATA[</Color>]]> out of thin air? This projection is more fantastical than I thought.":"МЕЛИНА: <![CDATA[<Color=orange>]]>Загрузиться<![CDATA[</Color>]]> из ниоткуда? Эта проекция более фантастична, чем я думала.",
+      "CALAD: Does that bother you, Melina?":"КАЛАД: Это тебя беспокоит, Мелина?",
+      "MELINA: How couldn’t it? As Nomai, we strive to learn about our surrounding. Doesn’t it go against our philosophy to exist in such a malleable yet predictable place?":"МЕЛИНА: Как может не беспокоить? Мы, Номаи, стремимся познавать окружающий мир. Разве существование в таком податливом, но предсказуемом месте не противоречит нашей философии?",
+      "PRIMM: I agree with Melina… It’d be strange to have no unknowns.":"ПРИММ: Я согласен с Мелиной… Было бы странно, если бы не осталось неизвестного.",
+      "CALAD: I… Cannot deny that.":"КАЛАД: Я… не могу это отрицать.",
+      "CALAD: Let’s visit the other anchors, since we’re still monitoring the functionality of the projection.":"КАЛАД: Давайте посетим другие якоря, раз уж мы всё равно следим за функциональностью проекции.",
+
+      //AnchorTwoRec
+      "CALAD: Walking through this place makes me miss the open night sky. Remind me to add some exterior areas on future iterations, please.":"КАЛАД: Прогуливаясь здесь, я скучаю по открытому ночному небу. Напомни мне, пожалуйста, добавить внешние зоны в следующих версиях.",
+      "PRIMM: I share the feeling, Calad. Perhaps a garden could be made, or an observatory?":"ПРИММ: Я разделяю твои чувства, Калад. Может, создать сад или обсерваторию?",
+      "MELINA: I’m unsure that’d be enough, Primm. Hypothesis: Making a facsimile of the sky will not suffice; only the true version will satiate our love for it.":"МЕЛИНА: Не уверена, что этого будет достаточно, Примм. Гипотеза: создания имитации неба будет недостаточно; лишь его настоящий вид утолит нашу любовь к нему.",
+      "CALAD: That’s not a comforting hypothesis, Melina. Why do you believe that?":"КАЛАД: Это не самая утешительная гипотеза, Мелина. Почему ты так считаешь?",
+      "MELINA: I lack concrete evidence, but I cannot think of a situation where, knowing I’m looking at code and algorithms, I’d be satisfied.":"МЕЛИНА: Мне не хватает конкретных доказательств, но я не могу представить ситуацию, в которой, зная, что смотрю на код и алгоритмы, я была бы удовлетворена.",
+      "CALAD: Perhaps… Perhaps I feel the same.":"КАЛАД: Возможно… Возможно, я чувствую то же самое.",
+      "CALAD: …":"КАЛАД: …",
+      "MELINA: Let us search for the other Anchors; we should assure ourselves they all function well. We’ll head for the incenter afterwards.":"МЕЛИНА: Давайте поищем другие якоря; мы должны убедиться, что они все работают исправно. После этого направимся к центру.",
+
+      //AnchorThreeRec
+      "MELINA: Very well, this is the last anchor. We should attempt to triangulate them now.":"МЕЛИНА: Хорошо, это последний якорь. Теперь нам следует попытаться провести триангуляцию.",
+      "PRIMM: …":"ПРИММ: …",
+      "CALAD: Is something the matter, Primm?":"КАЛАД: Что-то не так, Примм?",
+      "PRIMM: I realize there’s no nature here. Everything is constructed, but it also doesn’t feel lived in; like an attempt by someone to recreate our structures without understanding why we build them.":"ПРИММ: Я понимаю, что здесь нет природы. Всё создано, но это также не выглядит обжитым; словно кто-то пытался воссоздать наши строения, не понимая, зачем мы их возводим.",
+      "MELINA: It is so, in a way. But I expect it’ll feel lived in once we live here.":"МЕЛИНА: В каком-то смысле, да. Но я полагаю, оно станет выглядеть обжитым, как только мы здесь поселимся.",
+      "CALAD: I don’t think that will help, Melina. I agree with Primm’s feeling.":"КАЛАД: Не думаю, что это поможет, Мелина. Я согласен с ощущениями Примма.",
+      "PRIMM: Is this project truly a good idea?":"ПРИММ: Этот проект и вправду хорошая идея?",
+      "CALAD: I’m unsure, Primm. Regardless, let us exit this place; we’ll have enough time to think on the way.":"КАЛАД: Я не уверен, Примм. В любом случае, давай выбираться отсюда; у нас будет достаточно времени подумать по дороге.",
+
+      //AnchorMiddleRecTop
+      "MELINA: I don't see a projection stone here.":"МЕЛИНА: Я не вижу здесь проекционного камня.",
+      "CALAD: No, but there is a way forward. Perhaps we must delve deeper before we may depart.":"КАЛАД: Нет, но впереди есть путь. Возможно, нам нужно углубиться дальше, прежде чем мы сможем уйти.",
+      "CALAD: We would do well to perform a thorough assesment of this projection if we do not wish to return later.":"КАЛАД: Нам стоит провести тщательную оценку этой проекции, если мы не хотим возвращаться сюда позже.",
+      "PRIMM: We can find our way back to the entrance from here by traveling in the direction of Projection Anchor 1.":"ПРИММ: Мы можем найти путь обратно ко входу отсюда, двигаясь в направлении Проекционного якоря 1.",
+      
+      //AnchorMiddleRec
+      "PRIMM: I must wonder what would happen if another species interacted with this space.":"ПРИММ: Мне интересно, что произойдёт, если другой вид вступит во взаимодействие с этим пространством.",
+      "MELINA: The projection works by interfacing with our knowledge and building from it. Hypothesis: Should a different species enter here, its architecture would closely match their experiences.":"МЕЛИНА: Проекция работает, взаимодействуя с нашими знаниями и строя на их основе. Гипотеза: если сюда войдёт другой вид, его архитектура будет в значительной степени соответствовать их опыту.",
+      "CALAD: Perhaps, if this structure is left alone, someone else will find it and prove that hypothesis.":"КАЛАД: Возможно. Если эта конструкция останется брошенной, кто-то другой найдёт её и подтвердит эту гипотезу.",
+      "MELINA: As much as I'd enjoy to see it, I doubt we'll be present for such an event.":"МЕЛИНА: Хотя мне бы очень хотелось это увидеть, сомневаюсь, что мы будем присутствовать при таком событии.",
+      "CALAD: Regardless, now that we've reached this reflection, we're most likely to find a projection stone in the position on this side corresponding to where we first entered the projection.":"КАЛАД: В любом случае, теперь, когда мы достигли этого отражения, скорее всего, мы найдём проекционный камень на этой стороне в позиции, соответствующей той, где мы впервые вошли в проекцию.",
+      "PRIMM: I am uncertain how we might locate that position without some sort of marker to lead the way.":"ПРИММ: Я не уверен, как мы сможем определить это место без каких-либо ориентиров.",
+
+      //EndingRec
+      "CALAD: Before we exit this place, I believe we should discuss our perspectives.":"КАЛАД: Прежде чем мы покинем это место, я думаю, нам стоит обсудить наши точки зрения.",
+      "MELINA: In regards to what, Calad?":"МЕЛИНА: Относительно чего, Калад?",
+      "CALAD: This place. Exploring it, we’ve all found it to be inadequate. It lacks natural qualities, it lacks will in its construction, and it lacks mysteries.":"КАЛАД: Это место. Исследуя его, мы все обнаружили его несостоятельность. Ему не хватает природных качеств, воли в его построении и тайн.",
+      "CALAD: We created this projection in order to have a safeguard once even our last stars fade out, but, after exploring it ourselves, I wonder if it might be detrimental.":"КАЛАД: Мы создали эту проекцию, чтобы иметь убежище, когда даже наши последние звёзды погаснут, но, исследовав её сами, я задаюсь вопросом, не принесёт ли она больше вреда.",
+      "PRIMM: Do you suggest we simply accept our fate?":"ПРИММ: Ты предлагаешь нам просто принять свою судьбу?",
+      "CALAD: I suggest we, at the very least, try to stay true to our principles. We are nomads to satiate our curiosity, to meet phenomena we don’t understand and do our best to grasp it. It’s unlike our species to endure for no reason than fear of the end.":"КАЛАД: Я предлагаю, по крайней мере, попытаться оставаться верными нашим принципам. Мы — кочевники, чтобы утолять своё любопытство, встречать непонятные нам явления и изо всех сил стараться постичь их. Не в наших традициях цепляться за существование без иной причины, кроме страха перед концом.",
+      "MELINA: The alternative to our projection is daunting. Probability is not friendly to us, now.":"МЕЛИНА: Альтернатива нашей проекции пугает. Вероятность сейчас не на нашей стороне.",
+      "PRIMM: We simply must seek a different solution; one that preserves the spirit of our clan and <![CDATA[<Color=orange>]]>community<![CDATA[</Color>]]>.":"ПРИММ: Мы просто обязаны искать другое решение; такое, которое сохранит дух нашего клана и <![CDATA[<Color=orange>]]>сообщества<![CDATA[</Color>]]>.",
+      "PRIMM: Fear of failure is a poor reason not to try.":"ПРИММ: Страх неудачи — плохая причина не пытаться."
+
+    },
+    "ShipLogDictionary": {
+      "Procedural Projection":"Процедурная проекция",
+      "The Nomai built a simulation accessible through a projection pool. During the first practical test, three Nomai became trapped inside the projection. ":"Номаи построили симуляцию, доступную через бассейн проекции. Во время первого практического испытания трое Номаев оказались в ловушке внутри проекции.",
+      "A Nomai named Calad noted that the three projection anchors act together to stabilize the area between them and that a projection stone was likely to be found there.":"Номай по имени Калад отметил, что три проекционных якоря действуют сообща, чтобы стабилизировать область между ними, и что там, вероятно, можно найти проекционный камень.",
+      "A Nomai named Melina was bothered by the predictable nature of the projection, noting that knowing everything of an enviroment contradicts the Nomai's curiosity.":"Номай по имени Мелина была обеспокоена предсказуемой природой проекции, отметив, что знание всего об окружающей среде противоречит любопытству Номаев.",
+      "A Nomai named Calad was bothered by the lack of nature within the projection. Another Nomai noted that knowing the nature was simulated would defeat the purpose of adding it.":"Номай по имени Калад был обеспокоен отсутствием природы внутри проекции. Другой Номай отметил, что если знать, что природа смоделирована, это лишит смысла её добавление.",
+      "A Nomai named Primm was bothered by the artificiality of the projection, noting it seemed like \"an attempt by someone to recreate their structures without understanding why they were built.\"":"Номай по имени Примм был обеспокоен искусственностью проекции, отметив, что это похоже на «попытку кого-то воссоздать их строения, не понимая, зачем они были построены».",
+      "There is a passageway in the floor leading downwards. A Nomai named Primm noted that one could find their way back to the entrance from the passageway by traveling in the direction of Projection Anchor 1.":"В полу есть проход, ведущий вниз. Номай по имени Примм отметил, что можно найти путь обратно ко входу из этого прохода, двигаясь в направлении Проекционного якоря 1.",
+      "The projection is procedurally generated from the knowledge of whoever is inside it.":"Проекция процедурно генерируется на основе знаний того, кто находится внутри неё.",
+      "I found a Stranger-styled area below the Nomai structures.":"Я обнаружил область в стиле Чужака под строениями Номаев.",
+      "A Nomai named Calad believed a projection stone would be found in the same position on the underside as the entrance is on the top side. A Nomai named Primm was unsure how to find that location without some sort of marker.":"Номай по имени Калад полагал, что проекционный камень будет найден на нижней стороне в том же положении, что и вход на верхней стороне. Номай по имени Примм не был уверен, как найти это место без каких-либо ориентиров.",
+      "I found a projection stone that will allow me to escape the projection.":"Я нашёл проекционный камень, который позволит мне покинуть проекцию.",
+      "The Nomai concluded they wouldn't finish this project, as they considered it to go against Nomai philosophy.":"Номаи пришли к выводу, что не завершат этот проект, так как считали, что он противоречит философии Номаев."
+    },
+    "UIDictionary":{
+      "Thanks for downloading Reflections! This mod was made for the 2024 New Horizons Single Planet Mod Jam.\n\nUse of the Suit Log mod is highly recommended.":"Спасибо за загрузку мода Reflections! Этот мод был создан для конкурса New Horizons Single Planet Mod Jam 2024.\n\nНастоятельно рекомендуется использовать мод Suit Log.",
+      "Forlorn Project":"Заброшенный проект",
+      "Anchor 1":"Якорь 1",
+      "Anchor 2":"Якорь 2",
+      "Anchor 3":"Якорь 3",
+      "Projection Anchor":"Проекционный якорь"
+    },
+    "OtherDictionary":{
+    }
+}
