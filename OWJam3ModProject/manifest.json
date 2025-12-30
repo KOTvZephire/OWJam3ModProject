@@ -4,7 +4,7 @@
   "author": "2walker2, GayCoffee, Greenpixel",
   "name": "Reflections",
   "uniqueName": "TeamErnesto.OWJam3ModProject",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "owmlVersion": "2.9.8",
   "dependencies": [ "xen.NewHorizons", "xen.ModJam3" ],
   "conflicts": [ "Alek.LightBramble" ]  
